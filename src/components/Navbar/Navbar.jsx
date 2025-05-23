@@ -18,6 +18,9 @@ function Navbar() {
                                 <li>
                                     <Link to="/basic1" className="dropdown-item" href="#">Basic 1</Link>
                                 </li>
+                                <li>
+                                    <Link to="/basic2" className="dropdown-item" href="#">Basic 2</Link>
+                                </li>
                             </ul>
                         </li>
                     </ul>
